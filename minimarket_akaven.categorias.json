@@ -1,0 +1,24 @@
+[{
+  "_id": "CAT-01",
+  "nombre": "Lácteos y Embutidos",
+  "descripcion": "Productos lácteos y derivados refrigerados",
+  "estado": "Activo"
+},
+{
+  "_id": "CAT-02",
+  "nombre": "Abarrotes",
+  "descripcion": "Arroz, fideos, aceites y conservas",
+  "estado": "Activo"
+},
+{
+  "_id": "CAT-03",
+  "nombre": "Bebidas y Bebidas Gaseosas",
+  "descripcion": "Gaseosas, jugos y aguas envasadas",
+  "estado": "Activo"
+},
+{
+  "_id": "CAT-04",
+  "nombre": "Golosinas y Helados",
+  "descripcion": "Galletas, chocolates y helados",
+  "estado": "Activo"
+}]

@@ -1,0 +1,14 @@
+[{
+  "_id": "CLI-501",
+  "dni": "72819203",
+  "nombre": "Carlos Mendoza",
+  "telefono": "987654321",
+  "tipoCliente": "Frecuente"
+},
+{
+  "_id": "CLI-502",
+  "dni": "45891234",
+  "nombre": "Ana Torres",
+  "telefono": "912345678",
+  "tipoCliente": "Frecuente"
+}]

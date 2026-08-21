@@ -1,0 +1,40 @@
+[{
+  "_id": "PROD-1001",
+  "codigoBarra": "7751234567890",
+  "nombre": "Leche Gloria Entera 400g",
+  "precioUnitario": 4.5,
+  "stock": 46,
+  "categoria_id": "CAT-01"
+},
+{
+  "_id": "PROD-1002",
+  "codigoBarra": "7759876543210",
+  "nombre": "Pan Molde Bimbo Blanco",
+  "precioUnitario": 7.2,
+  "stock": 18,
+  "categoria_id": "CAT-02"
+},
+{
+  "_id": "PROD-1003",
+  "codigoBarra": "7751112223334",
+  "nombre": "Gaseosa Inka Kola 1.5L",
+  "precioUnitario": 6.5,
+  "stock": 30,
+  "categoria_id": "CAT-03"
+},
+{
+  "_id": "PROD-1004",
+  "codigoBarra": "7754445556667",
+  "nombre": "Yogurt Gloria Fresa 1L",
+  "precioUnitario": 6.8,
+  "stock": 12,
+  "categoria_id": "CAT-01"
+},
+{
+  "_id": "PROD-1005",
+  "codigoBarra": "7758889990001",
+  "nombre": "Arroz Costeño Superior 1kg",
+  "precioUnitario": 4.8,
+  "stock": 50,
+  "categoria_id": "CAT-02"
+}]

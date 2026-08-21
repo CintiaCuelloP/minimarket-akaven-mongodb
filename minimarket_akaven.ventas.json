@@ -1,0 +1,67 @@
+[{
+  "_id": "VTA-001",
+  "fecha": {
+    "$date": "2026-08-18T10:15:00.000Z"
+  },
+  "metodoPago": "Yape",
+  "cliente_id": "CLI-501",
+  "items": [
+    {
+      "producto_id": "PROD-1001",
+      "nombre": "Leche Gloria Entera 400g",
+      "cantidad": 2,
+      "precioUnitario": 4.5,
+      "subtotal": 9
+    },
+    {
+      "producto_id": "PROD-1002",
+      "nombre": "Pan Molde Bimbo Blanco",
+      "cantidad": 1,
+      "precioUnitario": 7.2,
+      "subtotal": 7.2
+    }
+  ],
+  "montoTotal": 16.2
+},
+{
+  "_id": "VTA-002",
+  "fecha": {
+    "$date": "2026-08-19T18:30:00.000Z"
+  },
+  "metodoPago": "Efectivo",
+  "items": [
+    {
+      "producto_id": "PROD-1003",
+      "nombre": "Gaseosa Inka Kola 1.5L",
+      "cantidad": 2,
+      "precioUnitario": 6.5,
+      "subtotal": 13
+    }
+  ],
+  "montoTotal": 13
+},
+{
+  "_id": "VTA-003",
+  "fecha": {
+    "$date": "2026-08-19T20:45:00.000Z"
+  },
+  "metodoPago": "Yape",
+  "cliente_id": "CLI-502",
+  "items": [
+    {
+      "producto_id": "PROD-1001",
+      "nombre": "Leche Gloria Entera 400g",
+      "cantidad": 1,
+      "precioUnitario": 4.5,
+      "subtotal": 4.5
+    },
+    {
+      "producto_id": "PROD-1004",
+      "nombre": "Yogurt Gloria Fresa 1L",
+      "cantidad": 2,
+      "precioUnitario": 6.8,
+      "subtotal": 13.6
+    }
+  ],
+  "montoTotal": 18.1
+}]
